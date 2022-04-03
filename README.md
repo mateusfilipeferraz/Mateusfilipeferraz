@@ -1,7 +1,7 @@
 ### OLá! Eu sou o Mateus Ferraz👋
 
 - 🔭Sou estudande de Análise e Desenvolvimento de Sistemas; 
-- 🌱Meu foco atualmente é me torna um fornt-end
+- 🌱Meu foco atualmente é me torna um programador fornt-end
 <div align="center">
   <a href="https://github.com/mateusfilipeferraz/MateusFilipeFerraz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusfilipeferraz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
