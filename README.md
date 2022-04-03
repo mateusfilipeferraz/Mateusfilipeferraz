@@ -1,6 +1,6 @@
 ### OLá! Eu sou o Mateus Ferraz👋
 
-- 🔭Sou estudande de Análise e Dsensenvolvimento de Sistemas; 
+- 🔭Sou estudande de Análise e Desenvolvimento de Sistemas; 
 - 🌱Meu foco atualmente é me torna um fornt-end
 <div align="center">
   <a href="https://github.com/mateusfilipeferraz/MateusFilipeFerraz">
