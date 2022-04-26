@@ -4,9 +4,10 @@
 - 🌱Meu foco atualmente é me torna um programador fornt-end
 -
 <div>
-  <a href="https://github.com/mateusfilipeferraz/mateusFilipeFerraz">
+  <a href="https://github.com/mateusfilipeferraz/MateusFilipeFerraz">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=mateusfilipeferraz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfilipeferraz&layout=compact&langs_count=7&theme=merko"/ >
+   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div> 
 <div  align="center"> 
 <div style="display: inline_block"><br>
