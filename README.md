@@ -1,6 +1,7 @@
 ### <h1>OLá! Eu sou o Mateus Ferraz👋</h1>
 <div  align="center">  
 - 🔭Sou estudande de Análise e Desenvolvimento de Sistemas; 
+  <Br>
 - 🌱Meu foco atualmente é me torna um programador fornt-end
   </div> 
 <div  align="center">
