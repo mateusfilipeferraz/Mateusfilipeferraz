@@ -1,7 +1,8 @@
 ### OLá! Eu sou o Mateus Ferraz👋
-  ![Snake animation](https://github.com/mateusfilipeferraz/MateusFilipeFerraz/blob/output/github-contribution-grid-snake.svg)
+  
 - 🔭Sou estudande de Análise e Desenvolvimento de Sistemas; 
 - 🌱Meu foco atualmente é me torna um programador fornt-end
+- ![Snake animation](https://github.com/mateusfilipeferraz/MateusFilipeFerraz/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <a href="https://github.com/mateusfilipeferraz/mateusFilipeFerraz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusfilipeferraz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
