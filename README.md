@@ -3,7 +3,7 @@
 - 🔭Sou estudande de Análise e Desenvolvimento de Sistemas; 
   <Br>
   <Br>
-- 🌱Meu foco atualmente é me torna um programador front-end
+- 🌱Meu foco atualmente é me torna um programador
    
   </div> 
     <Br>
