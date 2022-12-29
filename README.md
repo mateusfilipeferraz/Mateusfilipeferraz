@@ -1,7 +1,8 @@
 ### <h1>OLá! Eu sou o Mateus Ferraz👋</h1>
 <div  align="center">  
-- 🔭Sou estudande de Análise e Desenvolvimento de Sistemas; 
+- 🔭Sou formado em Análise e Desenvolvimento de Sistemas; 
   <Br>
+   🔒Curso pós graduação em Segurança da Informação 
   <Br>
 - 🌱Meu foco atualmente é me torna um programador
    Java back end. 
