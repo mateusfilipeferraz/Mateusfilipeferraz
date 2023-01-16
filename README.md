@@ -5,7 +5,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas.🖥️<br>
 Estou cursando Pós Graduação em Segurança da Informação.🔒  
 </div>
 <br>
-<div>
+<div aling="center">
   <a href="https://github.com/mateusfilipeferraz">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mateusfilipeferraz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfilipeferraz&layout=compact&langs_count=7&theme=react" />
@@ -29,4 +29,4 @@ Estou cursando Pós Graduação em Segurança da Informação.🔒
 
   ![Snake animation](https://github.com/mateusfilipeferraz/mateusfilipeferraz/blob/output/github-contribution-grid-snake.svg)
  </div>
- </div>
+
