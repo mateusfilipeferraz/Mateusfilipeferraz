@@ -20,6 +20,7 @@ Estou cursando Pós Graduação em Segurança da Informação.🔒
   <img align="center" alt="CSS" height =height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt= "Java" height= "50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
+  </div>
   <div> 
  <br>
   <a href="https://www.instagram.com/mateusfferraz/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
