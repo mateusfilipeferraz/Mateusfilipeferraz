@@ -3,7 +3,7 @@
   <h1> Olá meu nome é Mateus 👋 </h1><br>
 Sou formado em Análise e Desenvolvimento de Sistemas.🖥️<br>
 Estou cursando Pós Graduação em Segurança da Informação.🔒  
-</div>
+
 <br>
 <div aling="center">
   <a href="https://github.com/mateusfilipeferraz">
@@ -27,4 +27,4 @@ Estou cursando Pós Graduação em Segurança da Informação.🔒
 
   ![Snake animation](https://github.com/mateusfilipeferraz/mateusfilipeferraz/blob/output/github-contribution-grid-snake.svg)
  </div>
-
+  </div>
