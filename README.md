@@ -2,7 +2,8 @@
 <div  align="center">
   <h1> Olá meu nome é Mateus 👋 </h1><br>
 Sou formado em Análise e Desenvolvimento de Sistemas.🖥️<br>
-Estou cursando Pós Graduação em Segurança da Informação.🔒  
+Pós Graduado em Segurança da Informação🔒 <br>Estou cursando pós em redes de computadores 🌐🖥️<br>
+  Cursando Bacharel em Ciências da Computação👨‍💻.
 <br>
 <br>
 <div aling="center">
