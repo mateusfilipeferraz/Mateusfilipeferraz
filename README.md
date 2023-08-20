@@ -1,6 +1,9 @@
+____________________________________________________________________________________________________________________________________________________________
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Mateus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 <div  align="center">
-  <h1> Olá meu nome é Mateus 👋 </h1><br>
 Sou formado em Análise e Desenvolvimento de Sistemas.🖥️<br>
 Pós Graduado em Segurança da Informação🔒 <br>Estou cursando pós em redes de computadores 🌐🖥️<br>
   Cursando Bacharel em Ciências da Computação👨‍💻.
@@ -12,6 +15,17 @@ Pós Graduado em Segurança da Informação🔒 <br>Estou cursando pós em redes
   <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfilipeferraz&layout=compact&langs_count=7&theme=react" />
      <br>
      <br>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mateusfilipeferraz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+<div  align="center">
+
+<br>
+<br>
+<div aling="center">
+
 </div>
 
 ![My Skills](https://skillicons.dev/icons?i=java,css,html,linux,github,git,ps,mysql&theme=dark)
