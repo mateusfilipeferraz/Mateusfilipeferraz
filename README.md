@@ -1,7 +1,7 @@
 ____________________________________________________________________________________________________________________________________________________________
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Mateus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Óla+eu+sou+o+Mateus!+;Bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg)
 
 <div  align="center">
 Sou formado em Análise e Desenvolvimento de Sistemas.🖥️<br>
