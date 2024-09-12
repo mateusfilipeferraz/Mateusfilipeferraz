@@ -5,8 +5,9 @@ ________________________________________________________________________________
 
 <div  align="center">
 Sou formado em Análise e Desenvolvimento de Sistemas.🖥️<br>
-Pós Graduado em Segurança da Informação🔒 <br>Estou cursando pós em redes de computadores 🌐🖥️<br>
+Pós Graduado em Segurança da Informação🔒 
   Cursando Bacharel em Ciências da Computação👨‍💻.
+  <br>Atualmente trabalho com Analista de Redes e Infraestrutura Júnior🌐🖥️<br>
 <br>
 <br>
 <div aling="center">
