@@ -30,6 +30,7 @@ Automação de Redes - Cloud Computing- -Infraestrutura de Redes.**
 <div align="center">
   <img src="https://img.shields.io/badge/-Zabbix-00428C?style=for-the-badge&logo=zabbix&logoColor=white" />
   <img src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kriil%20(RPKI)-005FCC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbmM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiMwMDVGQ0MiLz48cGF0aCBkPSJNNDYuMjA3MiAzMi4xMzAyTDI4LjM5NDYgNDUuMDcwN0wxOC44NjYzIDM2LjQ5NDdDMTYuNzMyNCAzNC42MjQ0IDE2LjI2MDkgMzEuMjk4MiAxOC4xMzA5IDI5LjE2NThMMjIuMzY1OSAyNC45MzYzQzI0LjIzNjEgMjMuMDY1NiAyNy41NjIwIDI0LjUzNzEgMjkuNDMzNiAyNi4zOTkxTDQ2LjIwNzIgMzIuMTMwMloiIGZpbGw9IiNGRkYiLz48L3N2Zz4=" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Mikrotik-FFCC00?style=for-the-badge&logo=mikrotik&logoColor=black" />
   <img src="https://img.shields.io/badge/-OpenVAS-008C4A?style=for-the-badge&logo=openvas&logoColor=white" />
@@ -42,27 +43,26 @@ Automação de Redes - Cloud Computing- -Infraestrutura de Redes.**
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-
 ---
 
 ### 🚀 **MeProjetos que Trabalhei ou Implementei:**
+
 📂 **Automação de Redes**  
- MikroTik: Implementação de redundância de chassis, redundância de links e failover para assegurar alta disponibilidade e continuidade dos serviços de rede.
- Zabbix: Monitoramento avançado utilizando mapas interativos e alertas sonoros para uma visualização intuitiva e resposta rápida a incidentes
+ **MikroTik:** Implementação de redundância de chassis, redundância de links e failover para assegurar alta disponibilidade e continuidade dos serviços de rede.
+ 
+ **Zabbix:** Monitoramento avançado utilizando mapas interativos e alertas sonoros para uma visualização intuitiva e resposta rápida a incidentes
 
 📂 **Segurança da Informação**  
- OpenVAS: Implementação de varreduras de rede para identificar vulnerabilidades e fortalecer a segurança da infraestrutura.
- Graylog: Centralização de logs para análise eficiente e monitoramento de eventos em tempo real, aprimorando a detecção de anomalias e auditoria de sistemas.
+ **OpenVAS:** Implementação de varreduras de rede para identificar vulnerabilidades e fortalecer a segurança da infraestrutura.
+ 
+ **Graylog:** Centralização de logs para análise eficiente e monitoramento de eventos em tempo real, aprimorando a detecção de anomalias e auditoria de sistemas.
+ 
+ **Kriil (RPKI):** Validação de rotas BGP utilizando RPKI para prevenir ataques de prefix hijacking e assegurar a integridade e confiabilidade do tráfego de rede.
 
 📂 **Infraestrutura e Virtualização**  
  Gerenciamento de servidores virtuais com **Proxmox** e containers utilizando **Docker**.  
  Configuração e manutenção de servidores **Linux** e **Windows Server**.
 
-📂 **Programação**  
- Aplicativos e scripts para resolver problemas do dia a dia (Java, Python).  
- Desenvolvimento de APIs e automação de tarefas administrativas.
-
----
 
 ### 📊 **Estatísticas do GitHub:**
 <div align="center">
